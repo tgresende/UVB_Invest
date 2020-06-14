@@ -1,0 +1,13 @@
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\bin\Debug\Database.dll.config
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\bin\Debug\Database.dll
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\bin\Debug\Database.pdb
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\bin\Debug\EntityFramework.dll
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\obj\Debug\Database.dll
+C:\Users\Tulio\Desktop\projetos App\UVB_Invest\UVB_Invest\Database\obj\Debug\Database.pdb

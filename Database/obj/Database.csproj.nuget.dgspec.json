@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tulio\\Desktop\\projetos App\\UVB_Invest\\UVB_Invest\\Database\\Database.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tulio\\Desktop\\projetos App\\UVB_Invest\\UVB_Invest\\Database\\Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tulio\\Desktop\\projetos App\\UVB_Invest\\UVB_Invest\\Database\\Database.csproj",
+        "projectName": "Database",
+        "projectPath": "C:\\Users\\Tulio\\Desktop\\projetos App\\UVB_Invest\\UVB_Invest\\Database\\Database.csproj",
+        "packagesPath": "C:\\Users\\Tulio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tulio\\Desktop\\projetos App\\UVB_Invest\\UVB_Invest\\Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Tulio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.113.1, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.113.1, )"
+            },
+            "System.Data.SQLite.Linq": {
+              "target": "Package",
+              "version": "[1.0.113, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
